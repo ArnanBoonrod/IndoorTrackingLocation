@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Indoor Tracking Locaiton</string>
+    <string name="title_activity_maps">Indodr Tracking Locaiton</string>
+    <string name="api_indoor">d6299959-b80d-45d2-97c8-5ad1e7c0194a</string>
+    <string name="api_indoor_secret">sAt74iUwbu7I1LfLFoG5r871qULWTNcrQot/jKFrXEH9hte30fFgwJFZYDShpQ5tZX+ranVQYcsZ3x38FNk5bmDhV1m+VXaMiJaRBNRe6pbGF1PTODvsV4eEvFFmjQ==</string>
+    <string name="button_close">Close</string>
+
+
+</resources>
